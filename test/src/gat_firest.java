@@ -4,6 +4,5 @@ public class gat_firest {
         System.out.println("添加dev修改");
         System.out.println("test_2");
         System.out.println("test_3");
-        System.out.println("test_2");
     }
 }
